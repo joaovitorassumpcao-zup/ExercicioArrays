@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Exer6 {
     public static void main(String[] args) {
+
         // Onde colocar um Array ou Lista...?
 
         Scanner scanner = new Scanner(System.in);
